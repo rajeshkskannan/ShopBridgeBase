@@ -1,0 +1,1 @@
+# ShopBridgeBase
